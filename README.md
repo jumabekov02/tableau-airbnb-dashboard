@@ -33,3 +33,5 @@ This project analyzes Airbnb pricing trends based on bedroom count, ZIP code, an
 ## Preview
 
 ![Dashboard](images/dashboard.png)
+
+Live Dashboard: https://public.tableau.com/app/profile/murad.zhumabekov/viz/airbnb-tableau-dashboard/Dashboard1?publish=yes
